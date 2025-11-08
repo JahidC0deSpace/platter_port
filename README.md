@@ -32,7 +32,7 @@ It provides a seamless experience for customers to **browse menus, place food or
 
 ## 🧰 Tech Stack
 
-**Frontend:** React.js, Vue.js, Axios, Redux, Tailwind CSS  
+**Frontend:** React.js, Vue.js, Axios, Redux,CSS,HTML  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB with Mongoose  
 **Authentication:** JWT, bcrypt.js  
